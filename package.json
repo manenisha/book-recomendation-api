@@ -1,0 +1,18 @@
+{
+  "name": "book-recomendation-api",
+  "version": "1.0.0",
+  "description": "To create a comprehensive book recommendation and review API service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "joi": "^17.13.1",
+    "mysql2": "^3.9.8",
+    "sequelize": "^6.37.3"
+  }
+}
